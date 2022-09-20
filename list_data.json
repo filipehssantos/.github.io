@@ -1,0 +1,52 @@
+{
+	"Favorite Restaurantes": [{
+			"Name": "Fasano",
+			"Country": "Brazil",
+			"City": "Sao Paulo",
+			"Cuisine": "Contemporary",
+			"Price Range": "$$$$"
+		},
+		{
+			"Name": "Naoki",
+			"Country": "Chile",
+			"City": "Santiago",
+			"Cuisine": "Japanese",
+			"Price Range": "$$$$"
+		},
+		{
+			"Name": "Tuju",
+			"Country": "Brazil",
+			"City": "Sao Paulo",
+			"Cuisine": "Creative",
+			"Price Range": "$$$"
+		},
+		{
+			"Name": "Aramburu",
+			"Country": "Argentina",
+			"City": "Buenos Aires",
+			"Cuisine": "Creative",
+			"Price Range": "$$$$"
+		},
+		{
+			"Name": "Pujol",
+			"Country": "Mexico",
+			"City": "Mexico City",
+			"Cuisine": "Mexican",
+			"Price Range": "$$$$$"
+		},
+		{
+			"Name": "Beau Constantia",
+			"Country": "South Africa",
+			"City": "Cape Town",
+			"Cuisine": "Contemporary/South African",
+			"Price Range": "$$$$$"
+		},
+		{
+			"Name": "Raphael",
+			"Country": "Peru",
+			"City": "Lima",
+			"Cuisine": "Contemporary/Peruvian",
+			"Price Range": "$$$$"
+		}
+	]
+}
